@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/ibratestcourse3/cat9.jpeg
+file: /courses/ibratestcourse3-ibratestcourse3-spring-2025/cat9.jpeg
 file_size: 13419
 file_type: image/jpeg
 image_metadata:
